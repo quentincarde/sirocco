@@ -17,9 +17,9 @@ if [ -d "xmod" ]; then
 fi
 
 
-if [ -d "zdata" ]; then 
-    rm zdata
-fi
+#if [ -d "zdata" ]; then 
+#    rm zdata
+#fi
 
 if [ -d "$top/$xdata" ]; then
     ln -s -f $top/$xdata data

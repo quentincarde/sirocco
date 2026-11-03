@@ -7,6 +7,7 @@ bin/windsave2table*
 bin/rad_hydro*
 bin/inspect_wind*
 bin/modify_wind*
+bin/hydro2sirocco*
 
 
 # Run files
