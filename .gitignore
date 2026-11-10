@@ -90,6 +90,7 @@ wiki/
 # Some atomic data files should not be tracked by this repository
 data/
 xmod/
+zdata/
 
 # avoid tracking symbolic links errenously put in xdata
 xdata/xdata
